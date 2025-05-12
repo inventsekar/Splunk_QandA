@@ -17,7 +17,9 @@ Topics:
 11. Regular Expressions
 12. DMC, DS, Cluster Master, tasks
 13. Splunk Upgrade tasks
-14.    
+14. Datamodel, CIM concepts
+15. Troubleshooting steps if any issues occurred in Splunk
+16. Directory precedence order
 
 
 
